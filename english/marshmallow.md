@@ -2,7 +2,7 @@ This is a story to look for your own, to [fight your way out of this](fight-out/
 
 Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
 
-Vist the master [liquid](liquid/liquid.md).
+Visit the master [liquid](liquid/liquid.md).
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
